@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51bab519-44f7-4f47-b3ba-ae2f197b9227" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/arrays/Ex1_OrdemInversa.java" afterDir="false" />
+    <list default="true" id="51bab519-44f7-4f47-b3ba-ae2f197b9227" name="Changes" comment="teste2">
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/arrays/Ex1_OrdemInversa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex1_OrdemInversa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex1_NomeEIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex1_NomeEIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex2_Nota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex2_Nota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex3_MaiorEMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex3_MaiorEMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex4_ParEImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex4_ParEImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex5_Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex5_Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex6_Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex6_Fatorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679723248521</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="teste2">
+      <created>1679723442409</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679723442409</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação de loops" />
     <MESSAGE value="teste" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste" />
+    <MESSAGE value="teste2" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste2" />
   </component>
 </project>
