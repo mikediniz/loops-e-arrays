@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51bab519-44f7-4f47-b3ba-ae2f197b9227" name="Changes" comment="teste2">
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/arrays/Ex1_OrdemInversa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex1_OrdemInversa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex1_NomeEIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex1_NomeEIdade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex2_Nota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex2_Nota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex3_MaiorEMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex3_MaiorEMedia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex4_ParEImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex4_ParEImpar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex5_Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex5_Tabuada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/loops/Ex6_Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex6_Fatorial.java" afterDir="false" />
+    <list default="true" id="51bab519-44f7-4f47-b3ba-ae2f197b9227" name="Changes" comment="teste3">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex2_Consoantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex4_ArrayMultidimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex1_OrdemInversa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex1_OrdemInversa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +36,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679723442409</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="teste3">
+      <created>1679723647904</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679723647904</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +170,7 @@
     <MESSAGE value="Criação de loops" />
     <MESSAGE value="teste" />
     <MESSAGE value="teste2" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste2" />
+    <MESSAGE value="teste3" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste3" />
   </component>
 </project>
